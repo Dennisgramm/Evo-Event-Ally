@@ -4,7 +4,7 @@ import Link from 'next/link';
 import React from 'react';
 
 import { Button } from '../ui/button';
-import NavItems from './Navitems'; 
+import NavItems from './NavItems'; 
 import MobileNav from './MobileNav';
 
 const Header = () => {
